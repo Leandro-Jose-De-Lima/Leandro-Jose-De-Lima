@@ -43,8 +43,6 @@
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro-Jose-De-Lima&layout=compact&theme=tokyonight" />
 </p>
 
----
-
 ## 🚀 Philosophy
 
 > _"Turning academic logic into real-world software solutions through consistent practice and clean code."_
