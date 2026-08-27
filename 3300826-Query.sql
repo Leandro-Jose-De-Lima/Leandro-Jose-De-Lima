@@ -1,3 +1,4 @@
 use sakila;
 
-select * FROM payment
+select 
+ FROM payment  payment
