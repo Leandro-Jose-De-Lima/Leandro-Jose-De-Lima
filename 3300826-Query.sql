@@ -4,4 +4,4 @@ select
 customer_id,
 amount
 FROM payment  payment
-where custo
+where customer_id = 1
