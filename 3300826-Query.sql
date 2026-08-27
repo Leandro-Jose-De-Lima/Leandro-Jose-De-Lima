@@ -4,3 +4,4 @@ select
 customer_id,
 amount
 FROM payment  payment
+where custo
