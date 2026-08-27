@@ -3,4 +3,4 @@ use sakila;
 select 
 customer_id,
 amount
-FROM payment  payment
+ FROM payment  payment
